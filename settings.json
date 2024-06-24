@@ -1,0 +1,30 @@
+{
+	"ancho_ventana" :820,
+	"alto_ventana" : 630,
+
+	"tema_1" : {
+		"colorbg" : "#B5C18E",
+		"colorcp" : "#F7DCB9",
+		"colorac" : "#DEAC80",
+		"colordes" : "#DEAC80",
+		"link": "https://colorhunt.co/palette/b5c18ef7dcb9deac80b99470"
+	},
+
+	"tema_2" : {
+		"colorbg" : "#F9EFDB",
+		"colorcp" : "#EBD9B4",
+		"colorac" : "#9DBC98",
+		"colordes" : "#638889",
+		"link" : "https://colorhunt.co/palette/f9efdbebd9b49dbc98638889"
+	},
+
+	"tema_3": {
+		"colorbg" : "#C3E2C2",
+		"colorcp" : "#EAECCC",
+		"colorac" : "#DBCC95",
+		"colordes" : "#CD8D7A",
+		"link" : "https://colorhunt.co/palette/c3e2c2eaecccdbcc95cd8d7a"
+	},
+
+	"tamanoLetraRegistrosHistorialCarga" : 15
+}
